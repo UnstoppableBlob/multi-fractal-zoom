@@ -122,7 +122,7 @@ class FractalGUI:
 
     def draw_burning_ship(self):
         # zoom into the largest ship
-        self.animate_fractal(-1.7619, 0.028, 1.5, burning_ship, 'inferno')
+        self.animate_fractal(-1.75100088, -0.04035832, 1.5, burning_ship, 'inferno')
 
     def draw_multibrot(self):
         d = 3 if self.fractal_choice == 'Multibrot (d=3)' else 4
@@ -141,7 +141,7 @@ class FractalGUI:
         plt.clf()
 
         for i in range(num_frames):
-            zoom_width = zoom_factor / (1.033 ** i)  
+            zoom_width = zoom_factor / (2 ** i)  
             zoom_height = zoom_width * (3 / 4)
 
             xmin, xmax = center_x - zoom_width, center_x + zoom_width

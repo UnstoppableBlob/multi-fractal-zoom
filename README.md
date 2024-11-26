@@ -6,5 +6,8 @@
 
 ## How to Use it
 
- Using this is pretty simple. To select the fractal you want, you just click on it and select, "draw fractal". then you just wait and look at the fractal zoom in.
+ Using this is pretty simple. To select the fractal you want, you just click on it and select, "draw fractal". then you just wait and look at the fractal zoom in at an interesting point.
 
+## Which fractals does this have
+
+Currently, it has mandelbrot, a few julia sets, burning ship, tricorn, and some mandelbrot variations.
