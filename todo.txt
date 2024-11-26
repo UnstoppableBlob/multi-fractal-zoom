@@ -1,0 +1,18 @@
+
+
+
+- add burning ship - done
+- find any other interesting fractals
+- disable window resize - done
+- animate the thingy\
+- ship to the shipyard
+- make julia fractals non-bad
+- colorful GUI
+- 
+
+- choose better point for burning ship
+
+
+---
+
+burning ship interesting points: ()
